@@ -1,5 +1,5 @@
-num1=100
-num2=200
+num1=input("Enter the Num1=")
+num2=input("Enter the Num2=")
 
 temp = num1 #100
 num1 = num2 #200
