@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9ae4a7d-37e2-4dc1-aaef-1222310b9edd" name="Changes" comment="Code I have Recently Practiced.">
+    <list default="true" id="a9ae4a7d-37e2-4dc1-aaef-1222310b9edd" name="Changes" comment="Code Changes in file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloPython/Swapping2Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloPython/Swapping2Numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,17 +36,17 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/workspace_python&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/workspace_python/HelloPython/Print.py",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Python.Swapping2Numbers">
+}]]></component>
+  <component name="RunManager" selected="Python.Print">
     <configuration name="BreakStatement" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="workspace_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +282,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Print" type="PythonConfigurationType" factoryName="Python">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python311\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloPython" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloPython/Print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="RangeFunction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="workspace_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -401,6 +429,7 @@
       <item itemvalue="Python.RangeFunction" />
       <item itemvalue="Python.Strings" />
       <item itemvalue="Python.Swapping2Numbers" />
+      <item itemvalue="Python.Print" />
       <item itemvalue="Python.Tuple" />
     </list>
   </component>
@@ -421,11 +450,32 @@
       <option name="project" value="LOCAL" />
       <updated>1692254212114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code Changes in file">
+      <option name="closed" value="true" />
+      <created>1692257012078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692257012078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code I have Recently Practiced." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code I have Recently Practiced." />
+    <MESSAGE value="Code Changes" />
+    <MESSAGE value="Code Changes in file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Changes in file" />
   </component>
 </project>
