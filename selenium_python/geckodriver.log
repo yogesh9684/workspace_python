@@ -1,0 +1,141 @@
+1694611894946	geckodriver	INFO	Listening on 127.0.0.1:50871
+1694611898071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOGESH\\AppData\\Local\\Temp\\rust_mozprofilercj1Nu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694611898857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694611899204	Marionette	INFO	Listening on port 50879
+WebDriver BiDi listening on ws://127.0.0.1:50872
+Read port: 50879
+1694611899655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50872/devtools/browser/25a8df66-ffce-4e60-86a4-90d49700a27b
+1694612098075	geckodriver	INFO	Listening on 127.0.0.1:50946
+1694612101137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOGESH\\AppData\\Local\\Temp\\rust_mozprofileYQtBn4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694612101658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694612102018	Marionette	INFO	Listening on port 50954
+WebDriver BiDi listening on ws://127.0.0.1:50947
+Read port: 50954
+1694612102440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50947/devtools/browser/a23383e4-9e12-4035-9c13-78487671f962
+1694661208390	geckodriver	INFO	Listening on 127.0.0.1:52867
+1694661211516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOGESH\\AppData\\Local\\Temp\\rust_mozprofile5r6G2F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694661213629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694661214910	Marionette	INFO	Listening on port 52875
+Read port: 52875
+WebDriver BiDi listening on ws://127.0.0.1:52868
+1694661215382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52868/devtools/browser/2387c84c-811d-4a2f-bb88-5eeb3d8d8d25
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+1694760284920	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398878, errorCode: 2, reason: error
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Managed to allocate after flush.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1694930238302	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398878, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+1695048408360	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398878, errorCode: 2, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+JavaScript warning: https://swayogsoftware.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=6.3.1, line 10: Script terminated by timeout at:
+timerCallBack@https://swayogsoftware.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=6.3.1:10:1235
+
+1695062670360	Marionette	INFO	Stopped listening on port 52875
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+cate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Unexpected BufferProvider over-production.
+[GFX1-]: Managed to allocate after flush.
+JavaScript warning: https://swayogsoftware.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=6.3.1, line 10: Script terminated by timeout at:
+timerCallBack@https://swayogsoftware.com/wp-content/themes/bridge/js/plugins/jquery.countdown.js?ver=6.3.1:10:1235
+
+1695062670190	Marionette	INFO	Stopped listening on port 50835
+Dynamically enable window occlusion 1
+[GFX1-]: Failed to get descriptor for recorded texture.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: Netw[GFX1-]: Killing GPU process due to IPC reply timeout
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+[Parent 11352, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:353
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1696520366580	geckodriver	INFO	Listening on 127.0.0.1:57831
+1696520369681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YOGESH\\AppData\\Local\\Temp\\rust_mozprofilezbJaPY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696520370224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696520370425	Marionette	INFO	Listening on port 57839
+WebDriver BiDi listening on ws://127.0.0.1:57832
+Read port: 57839
+1696520370768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57832/devtools/browser/4786f961-fa61-4c3c-9711-6c5c5bd2dff8
+JavaScript warning: https://swayogsoftware.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0, line 2: Script terminated by timeout at:
+ce.fn.extend@https://swayogsoftware.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:2220
+simulate@https://swayogsoftware.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:70515
+o@https://swayogsoftware.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:43192
+
+1696520386905	Marionette	INFO	Stopped listening on port 57839
+Dynamically enable window occlusion 1

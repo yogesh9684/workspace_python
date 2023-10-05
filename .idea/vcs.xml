@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Basic_Programs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/selenium_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/selenium_python/selenium_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/selenium_python/selenium_python/Selenium_Tutorial" vcs="Git" />
   </component>
 </project>
